@@ -1,9 +1,9 @@
-const cacheName = "DefaultCompany-NNKT-0.1";
+const cacheName = "DefaultCompany-NNKT-0.2";
 const contentToCache = [
-    "Build/002-b-1.loader.js",
-    "Build/002-b-1.framework.js.unityweb",
-    "Build/002-b-1.data.unityweb",
-    "Build/002-b-1.wasm.unityweb",
+    "Build/002-b-2.loader.js",
+    "Build/002-b-2.framework.js",
+    "Build/002-b-2.data",
+    "Build/002-b-2.wasm",
     "TemplateData/style.css"
 
 ];
